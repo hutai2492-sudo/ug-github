@@ -1,2 +1,3 @@
 Nama:Nathanael Gerardo 
-NIM:71261241.
+NIM:71261241
+Fitur pencarian
